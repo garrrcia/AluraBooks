@@ -1,0 +1,12 @@
+.carrossel__vendidos-titulo{
+    color: var(--cor-fonte-titulo-claro);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    font-family: var(--fonte-geral);
+    text-transform:uppercase;
+    background-color: var(--cor-card);
+    padding: 1em 0 0.5em 0; 
+}
